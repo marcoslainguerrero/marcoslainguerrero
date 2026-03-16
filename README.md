@@ -12,7 +12,7 @@ Me gusta entender cómo funcionan los sistemas desde dentro y construir aplicaci
 # 🌐 Conecta conmigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Marcos%20Lain-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/marcos-lain-guerrero-83211b267/)
-[![GitHub](https://img.shields.io/badge/GitHub-TUUSUARIO-black?style=for-the-badge&logo=github)]([https://github.com/marcoslainguerrero](https://github.com/marcoslainguerrero))
+[![GitHub](https://img.shields.io/badge/GitHub-marcoslainguerrero-black?style=for-the-badge&logo=github)](https://github.com/marcoslainguerrero))
 
 ---
 
@@ -76,10 +76,10 @@ Aplicación web para el seguimiento de entrenamientos de gimnasio.
 
 Permite registrar:
 
-- ejercicios
-- series
-- repeticiones
-- peso utilizado
+- Ejercicios
+- Series
+- Repeticiones
+- Peso utilizado
 
 Incluye **roles de cliente y entrenador**, permitiendo a los entrenadores supervisar el progreso de sus usuarios.
 
