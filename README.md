@@ -11,8 +11,8 @@ Me gusta entender cómo funcionan los sistemas desde dentro y construir aplicaci
 
 # 🌐 Conecta conmigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Marcos%20Lain-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com)
-[![GitHub](https://img.shields.io/badge/GitHub-TUUSUARIO-black?style=for-the-badge&logo=github)](https://github.com/TUUSUARIO)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Marcos%20Lain-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/marcos-lain-guerrero-83211b267/)
+[![GitHub](https://img.shields.io/badge/GitHub-TUUSUARIO-black?style=for-the-badge&logo=github)]([https://github.com/TUUSUARIO](https://github.com/marcoslainguerrero))
 
 ---
 
@@ -99,11 +99,7 @@ Tecnologías utilizadas:
 
 ---
 
-# 🐍 Snake de commits
 
-![snake gif](https://github.com/TUUSUARIO/TUUSUARIO/blob/output/github-contribution-grid-snake.svg)
-
----
 
 ⭐ Siempre abierto a aprender, colaborar y desarrollar nuevos proyectos.
 
