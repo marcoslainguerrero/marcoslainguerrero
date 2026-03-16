@@ -58,7 +58,7 @@ Me gusta entender cómo funcionan los sistemas desde dentro y construir aplicaci
 
 # 💻 Lenguajes más usados
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TUUSUARIO&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcoslainguerrero&layout=compact&theme=tokyonight)
 
 ---
 
