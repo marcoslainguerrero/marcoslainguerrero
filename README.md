@@ -12,7 +12,7 @@ Me gusta entender cómo funcionan los sistemas desde dentro y construir aplicaci
 # 🌐 Conecta conmigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Marcos%20Lain-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/marcos-lain-guerrero-83211b267/)
-[![GitHub](https://img.shields.io/badge/GitHub-marcoslainguerrero-black?style=for-the-badge&logo=github)](https://github.com/marcoslainguerrero))
+[![GitHub](https://img.shields.io/badge/GitHub-marcoslainguerrero-black?style=for-the-badge&logo=github)](https://github.com/marcoslainguerrero)
 
 ---
 
@@ -52,7 +52,7 @@ Me gusta entender cómo funcionan los sistemas desde dentro y construir aplicaci
 
 # 📊 Estadísticas de GitHub
 
-![Stats](https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=marcoslainguerrero&show_icons=true&theme=tokyonight)
 
 ---
 
@@ -64,7 +64,7 @@ Me gusta entender cómo funcionan los sistemas desde dentro y construir aplicaci
 
 # 🔥 Racha de contribuciones
 
-![GitHub streak](https://streak-stats.demolab.com/?user=TUUSUARIO&theme=tokyonight)
+![GitHub streak](https://streak-stats.demolab.com/?user=marcoslainguerrero&theme=tokyonight)
 
 ---
 
