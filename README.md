@@ -95,7 +95,7 @@ Tecnologías utilizadas:
 
 # 👀 Visitas al perfil
 
-![](https://komarev.com/ghpvc/?username=TUUSUARIO&color=blue&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=marcoslainguerrero&color=blue&style=for-the-badge)
 
 ---
 
