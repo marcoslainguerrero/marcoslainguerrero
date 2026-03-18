@@ -5,7 +5,7 @@
 💻 **Desarrollador Junior Backend**  
 🚀 Apasionado por la tecnología y el desarrollo de software.
 
-Me gusta entender cómo funcionan los sistemas desde dentro y construir aplicaciones eficientes. Disfruto especialmente trabajando en **backend**, gestionando datos y desarrollando soluciones que resuelvan problemas reales.
+Me gusta entender cómo funcionan los sistemas desde dentro y construir aplicaciones eficientes. Disfruto especialmente trabajando en **backend**, gestionando datos y desarrollando soluciones efectivas que resuelvan problemas reales.
 
 ---
 
