@@ -64,19 +64,7 @@ Me gusta entender cómo funcionan los sistemas desde dentro y construir aplicaci
 
 ---
 
-# 📊 Estadísticas de GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marcoslainguerrero&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165"/>
-</p>
-
----
-
-# 💻 Lenguajes más usados
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoslainguerrero&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165"/>
-</p>
 
 ---
 
